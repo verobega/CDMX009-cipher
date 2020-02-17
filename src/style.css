@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+}
+
+
+h1 {
+  color: rgb(39, 46, 142);
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+}
+h2 {
+  color: rgb(5, 5, 5);
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+
+input{
+ background-color: rgb(142, 153, 245);
+ width: 300px;
+ height: 40px;
+ font-size: x-large;
+}
+
+.lista{
+
+    top: 0;
+    bottom: 0;
+    right: 100;
+    left: 100;
+}
+
+.flex-card{
+
+    border: 40px solid rgb(1, 1, 97); 
+    padding: 0px;
+    align-items: space-around;
+}
+
+
+p{
+  color: rgb(7, 62, 243);
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+
+}
+
+
+
+
+
+
