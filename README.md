@@ -28,29 +28,29 @@ Los usuarios finales de la aplicación son personas que ya son clientes del banc
  
  UX
 
-    []Diseñar la aplicación pensando y entendiendo al usuario.
-    []Crear prototipos para obtener feedback e iterar.
-    []Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+    [Si] Diseñar la aplicación pensando y entendiendo al usuario.
+    [Si] Crear prototipos para obtener feedback e iterar.
+    [Si] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 HTML y CSS
 
-    []Uso correcto de HTML semántico.
-    []Uso de selectores de CSS.
-    []Construir tu aplicación respetando el diseño realizado (maquetación).
+    [Si] Uso correcto de HTML semántico.
+    [Si] Uso de selectores de CSS.
+    [No] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 DOM
 
-    []Uso de selectores del DOM.
-    []Manejo de eventos del DOM.
-    []Manipulación dinámica del DOM.
+    [Si] Uso de selectores del DOM.
+    [No] Manejo de eventos del DOM.
+    [Si] Manipulación dinámica del DOM.
 
 Javascript
 
-    []Manipulación de strings.
-    []Uso de condicionales (if-else | switch).
-    []Uso de bucles (for | do-while).
-    []Uso de funciones (parámetros | argumentos | valor de retorno).
-    []Declaración correcta de variables (const & let).
+    [Si] Manipulación de strings.
+    [Si] Uso de condicionales (if-else | switch).
+    [Si] Uso de bucles (for | do-while).
+    [No] Uso de funciones (parámetros | argumentos | valor de retorno).
+    [Si] Declaración correcta de variables (const & let).
 
 
 
