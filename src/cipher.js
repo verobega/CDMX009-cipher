@@ -1,6 +1,10 @@
+//Objeto en el que se encuentra la funcion cifrar
 const cipher = {
   cifrar
 }
+
+
+//Funcion para cifrar
     function cifrar(claveTemporal, moves){
         let resultEncode="";
       
