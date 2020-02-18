@@ -25,5 +25,32 @@ Los usuarios finales de la aplicación son personas que ya son clientes del banc
  Feedback 
  
  En general los cambios fueron de los elementos, que deben estar a la misma altura y deben tener el mismo ancho y margen. 
+ 
+ UX
+
+    Diseñar la aplicación pensando y entendiendo al usuario.
+    Crear prototipos para obtener feedback e iterar.
+    Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+
+HTML y CSS
+
+    Uso correcto de HTML semántico.
+    Uso de selectores de CSS.
+    Construir tu aplicación respetando el diseño realizado (maquetación).
+
+DOM
+
+    Uso de selectores del DOM.
+    Manejo de eventos del DOM.
+    Manipulación dinámica del DOM.
+
+Javascript
+
+    Manipulación de strings.
+    Uso de condicionales (if-else | switch).
+    Uso de bucles (for | do-while).
+    Uso de funciones (parámetros | argumentos | valor de retorno).
+    Declaración correcta de variables (const & let).
+
 
 
